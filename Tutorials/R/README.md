@@ -53,7 +53,6 @@ I got the error:
 
 Fortunately, my system's library had the necessary version:
 > strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep LIBC
-> GLIBCXX_3.4.21
 
 I removed the anaconda lib and set a symbolic link to the system library:
 ```
