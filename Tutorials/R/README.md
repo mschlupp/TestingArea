@@ -2,6 +2,8 @@
 Run
 `conda install -c r r`
 
+## Learn R on Kaggle Titanic competition
+Documented in the `Titanic - Getting started with R` notebook.
 
 ## Getting the R Kernel for the notebooks
 I'll use Ubuntu 16.04 for this setup. 
