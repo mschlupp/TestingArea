@@ -1,4 +1,7 @@
-# Repository to host possible tutorials
+# Repository to host tutorials
 
-## ./R -- Tutorial to test R
+# Available tutorials
+
+## R 
+Scripting language to perform statistical analyses.
 

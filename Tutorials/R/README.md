@@ -1,3 +1,9 @@
+# The R Tutorial 
+I chose to follow a tutorial on the Kaggle Titanic competition to do some simple predictive analyses. 
+
+ 
+---
+---
 # Setting up R evironment in conda. 
 Run
 `conda install -c r r`
